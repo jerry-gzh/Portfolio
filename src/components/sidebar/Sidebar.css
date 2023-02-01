@@ -21,7 +21,7 @@ aside {
 }
 
 .nav__link {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   color: var(--title-color);
   font-weight: var(--font-bold);
   transition: 0.3s;
