@@ -6,10 +6,7 @@ import LightLogo from "../../assets/light-logo.svg";
 import {
     RiHome2Line,
     RiUser3Line,
-    RiBriefcase2Line,
     RiStackLine,
-    RiDraftLine,
-    RiChat3Line,
     RiFileList3Line,
     RiMoonLine,
     RiSunLine,
@@ -48,29 +45,12 @@ const Sidebar = (props) => {
                                 </a>
                             </li>
 
-{/*                             <li className="nav__item">
-                                <a href="#resume" className="nav__link">
-                                    <RiBriefcase2Line />
-                                </a>
-                            </li> */}
-
                             <li className="nav__item">
                                 <a href="#portfolio" className="nav__link">
                                     <RiStackLine />
                                 </a>
                             </li>
 
-{/*                             <li className="nav__item">
-                                <a href="#blog" className="nav__link">
-                                    <RiDraftLine />
-                                </a>
-                            </li> */}
-
-                            <li className="nav__item">
-                                <a href="#contact" className="nav__link">
-                                    <RiChat3Line />
-                                </a>
-                            </li>
                         </ul>
                     </div>
                 </nav>
