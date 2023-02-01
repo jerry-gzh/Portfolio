@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.5c09220d.css",
-    "main.js": "/Portfolio/static/js/main.16feecfd.js",
+    "main.css": "/Portfolio/static/css/main.63f05945.css",
+    "main.js": "/Portfolio/static/js/main.edb04dc6.js",
     "static/media/P2.png": "/Portfolio/static/media/P2.45de613239f9a0134e9a.png",
     "static/media/resume.pdf": "/Portfolio/static/media/resume.536529cdac49f1355534.pdf",
     "static/media/P1.png": "/Portfolio/static/media/P1.817a278383abe37acd38.png",
     "static/media/P3.png": "/Portfolio/static/media/P3.102ce06b6bca586bbb49.png",
-    "static/media/blog-1.svg": "/Portfolio/static/media/blog-1.f765e1b0fff9fb909ed6db7a682ac4e2.svg",
     "static/media/profile.png": "/Portfolio/static/media/profile.73a5262ea529883cb094.png",
-    "static/media/avatar-3.svg": "/Portfolio/static/media/avatar-3.5bf46e6d1530bd73b02b567041e76e4d.svg",
-    "static/media/avatar-4.svg": "/Portfolio/static/media/avatar-4.1859fab5f65d2a41fed620abbb0170e5.svg",
     "static/media/service-2.svg": "/Portfolio/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
     "static/media/service-1.svg": "/Portfolio/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
     "static/media/logo.svg": "/Portfolio/static/media/logo.e3a24721fc1de71803a80941b5611f71.svg",
@@ -17,11 +14,11 @@
     "static/media/dots-bg.svg": "/Portfolio/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
     "static/media/light-logo.svg": "/Portfolio/static/media/light-logo.060bc1a33908778a0f6c21523c22a8dd.svg",
     "index.html": "/Portfolio/index.html",
-    "main.5c09220d.css.map": "/Portfolio/static/css/main.5c09220d.css.map",
-    "main.16feecfd.js.map": "/Portfolio/static/js/main.16feecfd.js.map"
+    "main.63f05945.css.map": "/Portfolio/static/css/main.63f05945.css.map",
+    "main.edb04dc6.js.map": "/Portfolio/static/js/main.edb04dc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c09220d.css",
-    "static/js/main.16feecfd.js"
+    "static/css/main.63f05945.css",
+    "static/js/main.edb04dc6.js"
   ]
 }
