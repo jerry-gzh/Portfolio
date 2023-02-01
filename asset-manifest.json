@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.63f05945.css",
-    "main.js": "/Portfolio/static/js/main.7dd4202f.js",
-    "static/media/P2.png": "/Portfolio/static/media/P2.45de613239f9a0134e9a.png",
-    "static/media/resume.pdf": "/Portfolio/static/media/resume.536529cdac49f1355534.pdf",
-    "static/media/P1.png": "/Portfolio/static/media/P1.817a278383abe37acd38.png",
-    "static/media/P3.png": "/Portfolio/static/media/P3.102ce06b6bca586bbb49.png",
-    "static/media/profile.png": "/Portfolio/static/media/profile.73a5262ea529883cb094.png",
-    "static/media/service-2.svg": "/Portfolio/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
-    "static/media/service-1.svg": "/Portfolio/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
-    "static/media/logo.svg": "/Portfolio/static/media/logo.e3a24721fc1de71803a80941b5611f71.svg",
-    "static/media/dots-bg-dark.svg": "/Portfolio/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
-    "static/media/dots-bg.svg": "/Portfolio/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
-    "static/media/light-logo.svg": "/Portfolio/static/media/light-logo.060bc1a33908778a0f6c21523c22a8dd.svg",
-    "index.html": "/Portfolio/index.html",
-    "main.63f05945.css.map": "/Portfolio/static/css/main.63f05945.css.map",
-    "main.7dd4202f.js.map": "/Portfolio/static/js/main.7dd4202f.js.map"
+    "main.css": "/static/css/main.0974315c.css",
+    "main.js": "/static/js/main.1cbb5c1e.js",
+    "static/media/P2.png": "/static/media/P2.45de613239f9a0134e9a.png",
+    "static/media/resume.pdf": "/static/media/resume.536529cdac49f1355534.pdf",
+    "static/media/P1.png": "/static/media/P1.817a278383abe37acd38.png",
+    "static/media/P3.png": "/static/media/P3.102ce06b6bca586bbb49.png",
+    "static/media/profile.png": "/static/media/profile.73a5262ea529883cb094.png",
+    "static/media/service-2.svg": "/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
+    "static/media/service-1.svg": "/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
+    "static/media/logo.svg": "/static/media/logo.e3a24721fc1de71803a80941b5611f71.svg",
+    "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
+    "static/media/light-logo.svg": "/static/media/light-logo.060bc1a33908778a0f6c21523c22a8dd.svg",
+    "index.html": "/index.html",
+    "main.0974315c.css.map": "/static/css/main.0974315c.css.map",
+    "main.1cbb5c1e.js.map": "/static/js/main.1cbb5c1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.63f05945.css",
-    "static/js/main.7dd4202f.js"
+    "static/css/main.0974315c.css",
+    "static/js/main.1cbb5c1e.js"
   ]
 }
