@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import Image from '../../assets/profile.png';
-import Resume from '../../assets/resume.pdf';
+import Resume from '../../assets/GeradoGuzmanH_CV.pdf';
 //import AboutBox from './AboutBox';
 
 const About = () => {
@@ -41,7 +41,7 @@ const About = () => {
                             <li>Sass</li>
                             <li>GitHub</li>
                         </ul>
-                        {/* <button className="btn" onClick={downloadResume}>Donwload CV</button> */}
+                        <button className="btn" onClick={downloadResume}>Donwload CV</button>
                     </div>
 
 {/*                     <div className="about__skills grid">
