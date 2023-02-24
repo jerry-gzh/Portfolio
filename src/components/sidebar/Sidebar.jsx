@@ -11,6 +11,7 @@ import {
     RiMoonLine,
     RiSunLine,
     RiMenu2Line,
+    RiAwardFill
 } from "react-icons/ri";
 
 
@@ -51,6 +52,11 @@ const Sidebar = (props) => {
                                 </a>
                             </li>
 
+                            <li className="nav__item">
+                                <a href="#blog" className="nav__link">
+                                    <RiAwardFill />
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </nav>

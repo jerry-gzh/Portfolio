@@ -5,6 +5,7 @@ import Home from './components/home/Home';
 import About from './components/about/About';
 import Services from './components/services/Services';
 import Portfolio from './components/portfolio/Portfolio';
+import Blog from './components/blog/Blog';
 import useLocalStorage from 'use-local-storage'
 
 
@@ -25,6 +26,7 @@ function App() {
                 <About />
                 <Services />
                 <Portfolio />
+                <Blog />
             </main>
         </div>
     );
