@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a2bda7c.css",
-    "main.js": "/static/js/main.10385454.js",
+    "main.css": "/static/css/main.52f2c0d0.css",
+    "main.js": "/static/js/main.73adcafa.js",
     "static/media/P2.png": "/static/media/P2.45de613239f9a0134e9a.png",
     "static/media/P1.png": "/static/media/P1.817a278383abe37acd38.png",
-    "static/media/GeradoGuzmanH_CV.pdf": "/static/media/GeradoGuzmanH_CV.e10cda74a1df61f3b83f.pdf",
+    "static/media/GeradoGuzmanH_CV.pdf": "/static/media/GeradoGuzmanH_CV.1540322870d3f8dc810c.pdf",
     "static/media/P3.png": "/static/media/P3.102ce06b6bca586bbb49.png",
     "static/media/profile.png": "/static/media/profile.73a5262ea529883cb094.png",
+    "static/media/DiplomaDEVF.png": "/static/media/DiplomaDEVF.d2c10ffede4890852ff2.png",
     "static/media/logo.png": "/static/media/logo.3ae70513f4a84625fe38.png",
     "static/media/logo-l.png": "/static/media/logo-l.592e36725539cd9eb8cb.png",
     "static/media/service-2.svg": "/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
@@ -14,11 +15,11 @@
     "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
     "static/media/dots-bg.svg": "/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
     "index.html": "/index.html",
-    "main.6a2bda7c.css.map": "/static/css/main.6a2bda7c.css.map",
-    "main.10385454.js.map": "/static/js/main.10385454.js.map"
+    "main.52f2c0d0.css.map": "/static/css/main.52f2c0d0.css.map",
+    "main.73adcafa.js.map": "/static/js/main.73adcafa.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a2bda7c.css",
-    "static/js/main.10385454.js"
+    "static/css/main.52f2c0d0.css",
+    "static/js/main.73adcafa.js"
   ]
 }
