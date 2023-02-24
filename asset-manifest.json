@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.6a2bda7c.css",
-    "main.js": "/static/js/main.3af13289.js",
+    "main.js": "/static/js/main.10385454.js",
     "static/media/P2.png": "/static/media/P2.45de613239f9a0134e9a.png",
-    "static/media/resume.pdf": "/static/media/resume.536529cdac49f1355534.pdf",
     "static/media/P1.png": "/static/media/P1.817a278383abe37acd38.png",
+    "static/media/GeradoGuzmanH_CV.pdf": "/static/media/GeradoGuzmanH_CV.e10cda74a1df61f3b83f.pdf",
     "static/media/P3.png": "/static/media/P3.102ce06b6bca586bbb49.png",
     "static/media/profile.png": "/static/media/profile.73a5262ea529883cb094.png",
     "static/media/logo.png": "/static/media/logo.3ae70513f4a84625fe38.png",
@@ -15,10 +15,10 @@
     "static/media/dots-bg.svg": "/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
     "index.html": "/index.html",
     "main.6a2bda7c.css.map": "/static/css/main.6a2bda7c.css.map",
-    "main.3af13289.js.map": "/static/js/main.3af13289.js.map"
+    "main.10385454.js.map": "/static/js/main.10385454.js.map"
   },
   "entrypoints": [
     "static/css/main.6a2bda7c.css",
-    "static/js/main.3af13289.js"
+    "static/js/main.10385454.js"
   ]
 }
