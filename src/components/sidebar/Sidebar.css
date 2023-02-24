@@ -35,6 +35,12 @@ aside {
   background-color: transparent;
 }
 
+#lan{
+  justify-content: center;
+  font-size: 1.3rem;
+  margin-bottom: 4rem;
+}
+
 .copyright {
   color: var(--title-color);
   font-size: var(--small-font-size);

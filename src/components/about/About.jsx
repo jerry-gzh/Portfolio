@@ -2,6 +2,8 @@ import React from 'react';
 import './About.css';
 import Image from '../../assets/profile.png';
 import Resume from '../../assets/GeradoGuzmanH_CV.pdf';
+import { useTranslation } from "react-i18next";
+
 //import AboutBox from './AboutBox';
 
 const About = () => {
@@ -9,10 +11,17 @@ const About = () => {
         window.open(Resume, '_blank');
     }
 
+    const [t, i18n] = useTranslation("global");
+
 
     return (
         <section className="about container section" id="about">
-            <h2 className="section__title">Acerca de mi</h2>
+            <h2 className="section__title">{t('About.About-me')}</h2>
+
+            {/* Botones de prueba */}
+                <br></br>
+
+            {/* Botones de prueba */}
 
             <div className="about__container grid">
                 <img src={Image} alt="" className='about__img' />

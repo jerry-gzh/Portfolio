@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import "./Sidebar.css";
 import Logo from "../../assets/logo.png";
 import LightLogo from "../../assets/logo-l.png";
+import i18next from "i18next"
+import { useTranslation } from "react-i18next";
 
 import {
     RiHome2Line,
@@ -17,6 +19,8 @@ import {
 
 const Sidebar = (props) => {
     const [toggle, showMenu] = useState(false);
+    const [t, i18n] = useTranslation("global");
+
 
     return (
         <>
@@ -62,6 +66,12 @@ const Sidebar = (props) => {
                 </nav>
 
                 <div className="nav__footer">
+
+                    <button onClick={(i18next.language === 'en')? () => i18n.changeLanguage("es") : () => i18n.changeLanguage("en") } 
+                    className="nav__link footer__button" id="lan">
+                        {(i18next.language === 'en')? 'ES' : 'EN'}
+                    </button>
+
                     <button onClick={() => { props.switchTheme(); showMenu(!toggle) }} className="nav__link footer__button">
                         {props.theme === 'light' ? <RiMoonLine /> : <RiSunLine />}
                     </button>
