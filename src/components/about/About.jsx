@@ -16,7 +16,7 @@ const About = () => {
 
     return (
         <section className="about container section" id="about">
-            <h2 className="section__title">{t('About.About-me')}</h2>
+            <h2 className="section__title">{t('About.about-me')}</h2>
 
             {/* Botones de prueba */}
                 <br></br>
@@ -29,18 +29,13 @@ const About = () => {
                 <div className="about__data grid">
                     <div className="about__info">
                         <p className="about__description">
-                            
-
-
-                        Hola! Mi nombre es Gerardo Guzmán, soy egresado de Ingeniería Electrónica donde me especialicé en Biomédica, área en la cual me 
-                        desarrollé profesionalmente durante 3 años como ingeniero de servicio y capacitación.<br/><br/>
-                        La curiosidad y oportunidades me llevaron 
-                        a la implementación de software en diferentes empresas sumergiendome en los sistemas de gestión de mantenimiento computarizados 
-                        "CMMS" y los sistemas de planificación de recursos empresariales "ERP" donde encontré una de mis pasiones estructurando datos, 
-                        automatizando procedimientos y ofreciendo soluciones a los usuarios.<br/><br/>
-                        Decidí entrar en el desarrollo de software retomando mis conocimientos en programación y aprendiendo nuevos lenguajes y 
-                        herramientas. <br /><br />
-                            Algunas de las tecnologías con las que he trabajado recientemente son: 
+                            {t('About.text_1')}
+                            <br/><br/>
+                            {t('About.text_2')}
+                            <br/><br/>
+                            {t('About.text_3')}
+                            <br/><br/>
+                            {t('About.text_4')}
                         </p>
                         <ul className="about__list">
                             <li>JavaScript (ES6+)</li>
@@ -50,7 +45,7 @@ const About = () => {
                             <li>Sass</li>
                             <li>GitHub</li>
                         </ul>
-                        <button className="btn" onClick={downloadResume}>Donwload CV</button>
+                        <button className="btn" onClick={downloadResume}>{t('About.download_btn')}</button>
                     </div>
 
 {/*                     <div className="about__skills grid">

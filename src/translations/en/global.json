@@ -1,5 +1,19 @@
 {
   "About": {
-    "About-me": "About me"
+    "about-me": "About me", 
+    "text_1": "Hello! My name is Gerardo Guzmán, I am graduated in Electronic Engineering where I got specialized in Biomedic, an area in which I developed professionally for three years as a service and training engineer.",
+    "text_2": "Curiosity and opportunities led me to software implementation in different companies immersing myself in computerized maintenance management systems CMMS and enterprise resource planning systems ERP where I found one of my passions structuring data, automating procedures, and offering solutions to users.",
+    "text_3": "I decided to get into software development by resuming my programming knowledge and learning new languages and tools. ",
+    "text_4": "Some of the technologies he recently worked with are:",
+    "download_btn": "Download resume"
+  },
+  "Home": {
+    "education": "Web Developer"
+  },
+  "Services": {
+    "services": "Services"
+  },
+  "Projects": {
+    "projects": "Projects"
   }
 }

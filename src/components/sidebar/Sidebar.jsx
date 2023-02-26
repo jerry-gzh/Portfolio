@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./Sidebar.css";
 import Logo from "../../assets/logo.png";
 import LightLogo from "../../assets/logo-l.png";
-import i18next from "i18next"
+import i18next from "i18next";
 import { useTranslation } from "react-i18next";
 
 import {

@@ -5,6 +5,7 @@ import Menu from "./Menu";
 import { RiGithubLine, RiLink } from "react-icons/ri";
 
 import { motion } from "framer-motion";
+import { useTranslation } from "react-i18next";
 
 const Portfolio = () => {
     const [items, setItems] = useState(Menu);
@@ -15,10 +16,11 @@ const Portfolio = () => {
 
         setItems(updatedItems);
     };
+    const [t] = useTranslation("global");
 
     return (
         <section className="portfolio container section" id="portfolio">
-            <h2 className="section__title">Proyectos</h2>
+            <h2 className="section__title">{t('Projects.projects')}</h2>
 
             <div className="portfolio__container grid">
                 {items.map((elem) => {

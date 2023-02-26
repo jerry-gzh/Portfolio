@@ -1,5 +1,19 @@
 {
   "About": {
-    "About-me": "Acerca de mi"
+    "about-me": "Acerca de mi",
+    "text_1": "Hola! Mi nombre es Gerardo Guzmán, soy egresado de Ingeniería Electrónica donde me especialicé en Biomédica, área en la cual me desarrollé profesionalmente durante 3 años como ingeniero de servicio y capacitación",
+    "text_2": "La curiosidad y oportunidades me llevaron a la implementación de software en diferentes empresas sumergiendome en los sistemas de gestión de mantenimiento computarizados CMMS y los sistemas de planificación de recursos empresariales ERP donde encontré una de mis pasiones estructurando datos, automatizando procedimientos y ofreciendo soluciones a los usuarios.",
+    "text_3": "Decidí entrar en el desarrollo de software retomando mis conocimientos en programación y aprendiendo nuevos lenguajes y herramientas.",
+    "text_4": "Algunas de las tecnologías con las que he trabajado recientemente son:",
+    "download_btn": "Descargar CV"
+  },
+  "Home": {
+    "education": "Desarrollador web"
+  },
+  "Services": {
+    "services": "Servicios"
+  },
+  "Projects": {
+    "projects": "Proyectos"
   }
 }
