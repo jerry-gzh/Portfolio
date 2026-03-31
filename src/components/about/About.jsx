@@ -38,12 +38,12 @@ const About = () => {
                             {t('About.text_4')}
                         </p>
                         <ul className="about__list">
-                            <li>JavaScript (ES6+)</li>
-                            <li>React</li>
-                            <li>Node.js</li>
-                            <li>Bootstrap</li>
-                            <li>Sass</li>
-                            <li>GitHub</li>
+                            <li>Azure</li>
+                            <li>Terraform (IaC)</li>
+                            <li>Docker</li>
+                            <li>CI/CD (Azure DevOps)</li>
+                            <li>Databricks</li>
+                            <li>Prometheus + Grafana</li>
                         </ul>
                         <button className="btn" onClick={downloadResume}>{t('About.download_btn')}</button>
                     </div>

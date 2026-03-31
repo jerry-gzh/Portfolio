@@ -1,14 +1,17 @@
 {
   "About": {
     "about-me": "Acerca de mi",
-    "text_1": "Hola! Mi nombre es Gerardo Guzmán, soy egresado de Ingeniería Electrónica donde me especialicé en Biomédica, área en la cual me desarrollé profesionalmente durante 3 años como ingeniero de servicio y capacitación",
-    "text_2": "La curiosidad y oportunidades me llevaron a la implementación de software en diferentes empresas sumergiendome en los sistemas de gestión de mantenimiento computarizados CMMS y los sistemas de planificación de recursos empresariales ERP donde encontré una de mis pasiones estructurando datos, automatizando procedimientos y ofreciendo soluciones a los usuarios.",
-    "text_3": "Decidí entrar en el desarrollo de software retomando mis conocimientos en programación y aprendiendo nuevos lenguajes y herramientas.",
+    "text_1": "Soy Gerardo Guzmán, ingeniero DevOps con 3 años de experiencia en el sector bancario, enfocado en automatización, estabilidad y eficiencia operativa.",
+    "text_2": "Actualmente lidero la transición operativa de un core bancario SaaS, diseñando CI/CD en entornos híbridos, IaC con ARM/Terraform y prácticas seguras para accesos y secretos.",
+    "text_3": "En Bineo (2023-2025) construí y mantuve pipelines en Azure DevOps, administré servicios PaaS/SaaS en Azure y fortalecí el monitoreo con Azure Monitor, automatizando tareas con PowerShell y Bash.",
     "text_4": "Algunas de las tecnologías con las que he trabajado recientemente son:",
     "download_btn": "Descargar CV"
   },
   "Home": {
-    "education": "Desarrollador web"
+    "education": "Ingeniero DevOps"
+  },
+  "Resume": {
+    "experience": "Experiencia"
   },
   "Services": {
     "services": "Servicios"

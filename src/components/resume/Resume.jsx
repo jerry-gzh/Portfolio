@@ -2,15 +2,20 @@ import React, { useState } from "react";
 import "./Resume.css";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import Button from "./Button";
+import i18next from "i18next";
+import { useTranslation } from "react-i18next";
 
 import WorkExperience from "./WorkExperience";
 
 const Resume = () => {
     const [tabIndex, setTabIndex] = useState(0);
+    const [t] = useTranslation("global");
+    const language = i18next.language === "es" ? "es" : "en";
+    const experiences = WorkExperience[language];
 
     return (
         <section className="resume container section" id="resume">
-            <h2 className="section__title">Experience</h2>
+            <h2 className="section__title">{t("Resume.experience")}</h2>
 
             <div className="resume__container">
                 <Tabs
@@ -21,7 +26,7 @@ const Resume = () => {
                     selectedTabPanelClassName={"is-active"}
                 >
                     <TabList className="tab__list">
-                        {WorkExperience.map((experience, index) => {
+                        {experiences.map((experience, index) => {
                             const { id, company } = experience;
                             return (
                                 <Tab className="tab" key={`company-${id}`}>
@@ -31,7 +36,7 @@ const Resume = () => {
                         })}
                     </TabList>
 
-                    {WorkExperience.map((experience) => {
+                    {experiences.map((experience) => {
                         const { id, company, yearsActive, title, information } = experience;
                         return (
                             <TabPanel className="tab__panel" key={`panel-${id}`}>

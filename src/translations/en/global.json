@@ -1,14 +1,17 @@
 {
   "About": {
     "about-me": "About me", 
-    "text_1": "Hello! My name is Gerardo Guzmán, I am graduated in Electronic Engineering where I got specialized in Biomedic, an area in which I developed professionally for three years as a service and training engineer.",
-    "text_2": "Curiosity and opportunities led me to software implementation in different companies immersing myself in computerized maintenance management systems CMMS and enterprise resource planning systems ERP where I found one of my passions structuring data, automating procedures, and offering solutions to users.",
-    "text_3": "I decided to get into software development by resuming my programming knowledge and learning new languages and tools. ",
-    "text_4": "Some of the technologies he recently worked with are:",
+    "text_1": "I'm Gerardo Guzmán, a DevOps Engineer with 3 years of experience in the banking sector focused on automation, stability, and operational efficiency.",
+    "text_2": "Currently I lead the operational transition of a SaaS core banking platform, designing hybrid CI/CD, IaC with ARM/Terraform, and secure access/secret management.",
+    "text_3": "At Bineo (2023-2025) I built and maintained Azure DevOps pipelines, managed Azure PaaS/SaaS services, and improved monitoring with Azure Monitor while automating ops with PowerShell and Bash.",
+    "text_4": "Some of the technologies I've recently worked with are:",
     "download_btn": "Download resume"
   },
   "Home": {
-    "education": "Web Developer"
+    "education": "DevOps Engineer"
+  },
+  "Resume": {
+    "experience": "Experience"
   },
   "Services": {
     "services": "Services"
