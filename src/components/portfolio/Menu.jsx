@@ -1,6 +1,6 @@
-import Work1 from "../../assets/P1.png";
-import Work2 from "../../assets/P2.png";
-import Work3 from "../../assets/P3.png";
+import Work1 from "../../assets/portfolio/P1.png";
+import Work2 from "../../assets/portfolio/P2.png";
+import Work3 from "../../assets/portfolio/P3.png";
 
 const Menu = [
     {

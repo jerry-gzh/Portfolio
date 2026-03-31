@@ -138,7 +138,7 @@ img {
 
 .section__title::before {
   content: "";
-  background: url(./assets/dots-bg.svg);
+  background: url(./assets/backgrounds/dots-bg.svg);
   height: 2.25rem;
   width: 2.25rem;
   position: absolute;
@@ -148,7 +148,7 @@ img {
 
 [data-theme="dark"] .section__title::before {
   content: "";
-  background: url(./assets/dots-bg-dark.svg);
+  background: url(./assets/backgrounds/dots-bg-dark.svg);
   height: 2.25rem;
   width: 2.25rem;
   position: absolute;

@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
-import Image from '../../assets/profile.png';
-import Resume from '../../assets/GeradoGuzmanH_CV.pdf';
+import Image from '../../assets/photos/profile.png';
+import Resume from '../../assets/docs/GeradoGuzmanH_CV.pdf';
 import { useTranslation } from "react-i18next";
 
 import AboutBox from './AboutBox';

@@ -1,7 +1,7 @@
 import React from 'react';
 import './Blog.css';
 
-import Image1 from '../../assets/DiplomaDEVF.png';
+import Image1 from '../../assets/certs/DiplomaDEVF.png';
 
 const Blog = () => {
     return (
