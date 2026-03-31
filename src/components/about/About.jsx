@@ -4,7 +4,7 @@ import Image from '../../assets/profile.png';
 import Resume from '../../assets/GeradoGuzmanH_CV.pdf';
 import { useTranslation } from "react-i18next";
 
-//import AboutBox from './AboutBox';
+import AboutBox from './AboutBox';
 
 const About = () => {
     const downloadResume = async () => {
@@ -91,7 +91,7 @@ const About = () => {
                 </div>
             </div>
 
-            {/* <AboutBox /> */}
+            <AboutBox />
         </section>
     )
 }

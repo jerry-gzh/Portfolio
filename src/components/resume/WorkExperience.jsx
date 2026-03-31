@@ -6,7 +6,7 @@ const WorkExperience = {
             company: "Valladolid (Morelia)",
             yearsActive: "2026 - Actualidad",
             information: [
-                "Lideré la transición operativa de un core bancario SaaS con transferencia de conocimiento, operación supervisada y aceptación técnica.",
+                "Lideré la estabilización operativa de una plataforma financiera SaaS con transferencia de conocimiento, operación supervisada y criterios de aceptación técnica.",
                 "Diseñé e implementé pipelines CI/CD en entornos híbridos (on-premise y cloud), estandarizando despliegues.",
                 "Implementé infraestructura como código con ARM Templates y Terraform, reduciendo tiempos de aprovisionamiento y errores manuales.",
                 "Coordiné la gestión segura de accesos, permisos y secretos con Vault y controles de identidad.",
@@ -35,7 +35,7 @@ const WorkExperience = {
             company: "Valladolid (Morelia)",
             yearsActive: "2026 - Present",
             information: [
-                "Led the operational transition of a SaaS core banking platform with knowledge transfer, supervised operations, and technical acceptance.",
+                "Led the operational stabilization of a SaaS financial platform with knowledge transfer, supervised operations, and technical acceptance criteria.",
                 "Designed and implemented CI/CD pipelines in hybrid environments (on-premise and cloud), standardizing deployments.",
                 "Implemented Infrastructure as Code with ARM Templates and Terraform, reducing provisioning time and manual errors.",
                 "Coordinated secure access, permissions, and secrets management with Vault and identity controls.",
