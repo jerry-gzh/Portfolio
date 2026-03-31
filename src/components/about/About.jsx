@@ -11,7 +11,7 @@ const About = () => {
         window.open(Resume, '_blank');
     }
 
-    const [t, i18n] = useTranslation("global");
+    const [t] = useTranslation("global");
 
 
     return (

@@ -9,13 +9,6 @@ import { useTranslation } from "react-i18next";
 
 const Portfolio = () => {
     const [items, setItems] = useState(Menu);
-    const filterItems = (categoryItem) => {
-        const updatedItems = Menu.filter((curElem) => {
-            return curElem.category.includes(categoryItem);
-        });
-
-        setItems(updatedItems);
-    };
     const [t] = useTranslation("global");
 
     return (

@@ -19,7 +19,7 @@ import {
 
 const Sidebar = (props) => {
     const [toggle, showMenu] = useState(false);
-    const [t, i18n] = useTranslation("global");
+    const [, i18n] = useTranslation("global");
 
 
     return (
